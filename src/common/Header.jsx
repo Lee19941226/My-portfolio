@@ -108,7 +108,7 @@ const Header = () => {
 
         <h1 className="header_logo_title">
           <Link to="#home" onClick={(e) => handleNavClick(e, "#home")}>
-            나는 짱이다
+            나는 짱이다1234
           </Link>
         </h1>
       </div>
